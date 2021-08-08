@@ -604,7 +604,7 @@ section .container {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .resume .resume-item {
